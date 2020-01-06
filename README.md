@@ -1,2 +1,0 @@
-# DjangoGirls
-Tutorial DjangoGirls
